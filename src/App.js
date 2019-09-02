@@ -1,18 +1,17 @@
 import React from 'react';
 import logo from './logo.svg';
 import image from './comingsoon.png'
+import menturlogo from './menturlogo.png';
 
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1 className="heading-1">MentÜr</h1>
+      <img className="heading-1" src={menturlogo}/>
     <div  className="comingsoon">
       <img src={image} />
     </div>
-
-  s
     </div>
   );
 }
