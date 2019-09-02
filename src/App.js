@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import image from './comingsoon.png'
-import menturlogo from './menturlogo.png';
+import menturlogo from './mento.png';
 
 import './App.css';
 
